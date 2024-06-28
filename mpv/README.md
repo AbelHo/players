@@ -12,3 +12,12 @@
 ```
 cp ~/Desktop/mpv/time_and_frame.lua ~/.config/mpv/scripts/time_and_frame.lua
 ```
+
+## using mpv player
+1. use mpv by typing in the terminal
+```
+mpv filepath
+```
+1. frame by frame playback  
+a) Backwards 1 frame: press keyboard ","  
+b) Forward 1 frame: press keyboard "."
